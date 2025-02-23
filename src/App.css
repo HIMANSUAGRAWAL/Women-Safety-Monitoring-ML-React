@@ -1,0 +1,164 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.leaflet-container{
+  width: 100%;
+  height: 200px;
+  
+}
+.map-container{
+  flex: 1;
+  height: 500px;
+  width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.logout-button {
+  position: fixed;
+  bottom: 20px; 
+  left: 20px; 
+  z-index: 1000; 
+  background-color: #0d6efd;
+  color: #fff;
+
+}
+
+.page-container {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  background-color: #f5f5f5;
+}
+.profile-left {
+  width: 50%; 
+  background: #000;
+  padding: 20px;
+  color: white;
+  border-radius: 10px;
+}
+.profile-container {
+  width: 100%; 
+  height: 100vh; 
+  background: #000000;
+  color: white;
+  padding: 20px;
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 2px 0 10px rgba(206, 204, 204, 0.2);
+}
+.scroll-container {
+  height: 100vh;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+}
+
+.user-details {
+  text-align: left;
+  width: 100%;
+}
+
+.user-details h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.details p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+.logout-button {
+  background: #ff4d4d;
+  border: none;
+  padding: 10px 15px;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: auto;
+}
+
+.logout-button:hover {
+  background: #e60000;
+}
+
+.sos-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 20px;
+  color: white;
+  width: 100%;
+  height: 100vh;
+  background: #000000;
+}
+
+.sos-form input {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 50%;
+  margin: 10px 0;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.sos-button {
+  display: flex;
+  flex-direction: column;
+  background: red;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 50%;
+}
+
+.sos-button:hover {
+  background: darkred;
+}
+
+

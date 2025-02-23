@@ -1,0 +1,134 @@
+{
+    "cities": {
+      "Bhubaneswar": {
+        "state": "Odisha",
+        "police_stations": [
+          { "name": "Kharavela Nagar Police Station", "coordinates": [20.2961, 85.8245] },
+          { "name": "Chandrasekharpur Police Station", "coordinates": [20.3354, 85.8192] }
+        ],
+        "fire_stations": [
+          { "name": "Bhubaneswar Fire Station", "coordinates": [20.2761, 85.8373] }
+        ],
+        "hospitals": [
+          { "name": "AIIMS Bhubaneswar", "coordinates": [20.2566, 85.7963] }
+        ],
+        "bus_stations": [
+          { "name": "Baramunda Bus Stand", "coordinates": [20.2756, 85.7923] }
+        ]
+      },
+      "Cuttack": {
+        "state": "Odisha",
+        "police_stations": [
+          { "name": "Cantonment Police Station", "coordinates": [20.4672, 85.8793] },
+          { "name": "Badambadi Police Station", "coordinates": [20.4697, 85.8848] }
+        ],
+        "fire_stations": [
+          { "name": "Cuttack Fire Station", "coordinates": [20.4681, 85.8893] }
+        ],
+        "hospitals": [
+          { "name": "SCB Medical College", "coordinates": [20.4694, 85.8711] }
+        ],
+        "bus_stations": [
+          { "name": "Badambadi Bus Stand", "coordinates": [20.4715, 85.8837] }
+        ]
+      },
+      "Ranchi": {
+        "state": "Jharkhand",
+        "police_stations": [
+          { "name": "Lalpur Police Station", "coordinates": [23.3693, 85.3254] },
+          { "name": "Doranda Police Station", "coordinates": [23.3337, 85.3226] }
+        ],
+        "fire_stations": [
+          { "name": "Doranda Fire Station", "coordinates": [23.3351, 85.3198] }
+        ],
+        "hospitals": [
+          { "name": "RIMS Ranchi", "coordinates": [23.3841, 85.3219] }
+        ],
+        "bus_stations": [
+          { "name": "Khadgara Bus Stand", "coordinates": [23.3485, 85.3078] }
+        ]
+      },
+      "Mumbai": {
+        "state": "Maharashtra",
+        "police_stations": [
+          { "name": "Marine Drive Police Station", "coordinates": [18.9440, 72.8213] },
+          { "name": "Bandra Police Station", "coordinates": [19.0595, 72.8295] }
+        ],
+        "fire_stations": [
+          { "name": "Mumbai Fire Brigade HQ", "coordinates": [18.9633, 72.8353] }
+        ],
+        "hospitals": [
+          { "name": "KEM Hospital", "coordinates": [18.9987, 72.8403] }
+        ],
+        "bus_stations": [
+          { "name": "Mumbai Central Bus Stand", "coordinates": [18.9718, 72.8194] }
+        ]
+      },
+      "Bengaluru": {
+        "state": "Karnataka",
+        "police_stations": [
+          { "name": "MG Road Police Station", "coordinates": [12.9716, 77.5946] },
+          { "name": "Koramangala Police Station", "coordinates": [12.9343, 77.6227] }
+        ],
+        "fire_stations": [
+          { "name": "Bengaluru Fire Brigade", "coordinates": [12.9766, 77.5895] }
+        ],
+        "hospitals": [
+          { "name": "NIMHANS Hospital", "coordinates": [12.9435, 77.5952] }
+        ],
+        "bus_stations": [
+          { "name": "Majestic Bus Stand", "coordinates": [12.9784, 77.5726] }
+        ]
+      },
+      "Patna": {
+        "state": "Bihar",
+        "police_stations": [
+          { "name": "Patna Kotwali Police Station", "coordinates": [25.6093, 85.1235] },
+          { "name": "Gandhi Maidan Police Station", "coordinates": [25.6109, 85.1384] }
+        ],
+        "fire_stations": [
+          { "name": "Patna Fire Station", "coordinates": [25.6091, 85.1339] }
+        ],
+        "hospitals": [
+          { "name": "AIIMS Patna", "coordinates": [25.5377, 85.2524] }
+        ],
+        "bus_stations": [
+          { "name": "ISBT Patna", "coordinates": [25.6155, 85.1016] }
+        ]
+      },
+      "Hyderabad": {
+        "state": "Telangana",
+        "police_stations": [
+          { "name": "Banjara Hills Police Station", "coordinates": [17.4239, 78.4384] },
+          { "name": "Begumpet Police Station", "coordinates": [17.4471, 78.4684] }
+        ],
+        "fire_stations": [
+          { "name": "Hyderabad Fire Brigade", "coordinates": [17.4065, 78.4751] }
+        ],
+        "hospitals": [
+          { "name": "NIMS Hyderabad", "coordinates": [17.4265, 78.4465] }
+        ],
+        "bus_stations": [
+          { "name": "MGBS Bus Stand", "coordinates": [17.3850, 78.4867] }
+        ]
+      },
+      "Jatni": {
+        "state": "Odisha",
+        "police_stations": [
+          { "name": "Jatni Police Station", "coordinates": [20.1006, 85.7191] },
+          { "name": "Khordha Road GRP Police Station", "coordinates": [20.1052, 85.7104] }
+        ],
+        "fire_stations": [
+          { "name": "Jatni Fire Station", "coordinates": [20.0998, 85.7197] }
+        ],
+        "hospitals": [
+          { "name": "Railway Hospital Jatni", "coordinates": [20.1024, 85.7153] },
+          { "name": "Capital Hospital Jatni", "coordinates": [20.0987, 85.7220] }
+        ],
+        "bus_stations": [
+            {"name": "khurda Bus Stand", "coordinates": [20.2959847, 85.8246101]}
+        ]
+      }
+    }
+  }
+  
